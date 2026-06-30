@@ -40,7 +40,9 @@ def main() -> int:
     if args.job_index < 1 or args.job_index > len(jobs):
         raise ValueError("job-index must be between 1 and number of jobs")
     job = jobs[args.job_index - 1]
-    config = AvalancheConfig(**job["config"], seed=int(job["seed"]))
+    config_data = dict(job["config"])
+    config_data["seed"] = int(job["seed"])
+    config = AvalancheConfig(**config_data)
     result = run_job(config, config.seed)
 
     output_path = args.output_dir / config.param_hash
