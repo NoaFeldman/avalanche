@@ -1,15 +1,17 @@
 #!/bin/bash
 #SBATCH --job-name=pseudoavalanche
-#SBATCH --output=pseudoavalanche_%A_%a.out
-#SBATCH --error=pseudoavalanche_%A_%a.err
+#SBATCH --output=logs/pseudoavalanche_%A_%a.out
+#SBATCH --error=logs/pseudoavalanche_%A_%a.err
 #SBATCH --array=1-200
 #SBATCH --time=00:30:00
 #SBATCH --cpus-per-task=1
 
 SCRIPT_DIR="$(dirname "$0")"
-JOB_LIST="$SCRIPT_DIR/job_list.json"
+SUBMIT_DIR="${SLURM_SUBMIT_DIR:-$SCRIPT_DIR}"
+mkdir -p "$SUBMIT_DIR/logs"
+JOB_LIST="$SUBMIT_DIR/scripts/job_list.json"
 PYTHON="python"
-PYTHONPATH="$SCRIPT_DIR/../src:${PYTHONPATH:-}"
+PYTHONPATH="$SUBMIT_DIR/src:${PYTHONPATH:-}"
 export PYTHONPATH
 
 if [ ! -f "$JOB_LIST" ]; then
