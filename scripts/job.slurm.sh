@@ -6,8 +6,11 @@
 #SBATCH --time=00:30:00
 #SBATCH --cpus-per-task=1
 
-JOB_LIST="$(dirname "$0")/job_list.json"
+SCRIPT_DIR="$(dirname "$0")"
+JOB_LIST="$SCRIPT_DIR/job_list.json"
 PYTHON="python"
+PYTHONPATH="$SCRIPT_DIR/../src:${PYTHONPATH:-}"
+export PYTHONPATH
 
 if [ ! -f "$JOB_LIST" ]; then
   echo "Job list not found: $JOB_LIST"
