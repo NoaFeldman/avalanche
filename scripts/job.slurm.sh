@@ -5,6 +5,7 @@
 #SBATCH --array=1-200
 #SBATCH --time=00:30:00
 #SBATCH --cpus-per-task=1
+#SBATCH --mem=4G
 
 SCRIPT_DIR="$(dirname "$0")"
 SUBMIT_DIR="${SLURM_SUBMIT_DIR:-$SCRIPT_DIR}"

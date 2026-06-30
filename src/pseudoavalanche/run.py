@@ -2,7 +2,6 @@ from __future__ import annotations
 
 import argparse
 import json
-import os
 from pathlib import Path
 
 import numpy as np
@@ -10,23 +9,21 @@ import numpy as np
 from .analysis import fit_v_log
 from .bath import Bath
 from .config import AvalancheConfig
-from .evolve import evolve
-from .observables import compute_observables
+from .evolve import evolve_observables
 from .state import initial_state
 
 
 def run_job(config: AvalancheConfig, seed: int) -> dict:
     bath = Bath(config, seed=seed)
     psi0 = initial_state(config, seed=seed + 1)
-    times, trajectories = evolve(config, psi0, bath)
-    obs = compute_observables(times, trajectories, config)
+    obs = evolve_observables(config, psi0, bath)
     return {
-        "times": times,
+        "times": obs["times"],
         "front": obs["front"],
         "t_ell": obs["t_ell"],
         "s": obs["s"],
         "entropies": obs["entropies"],
-        "v_log": fit_v_log(times, obs["front"]),
+        "v_log": fit_v_log(obs["times"], obs["front"]),
     }
 
 

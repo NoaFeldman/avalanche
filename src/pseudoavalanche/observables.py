@@ -28,16 +28,22 @@ def _single_spin_entropy(state: np.ndarray, config: AvalancheConfig, spin_index:
     return float(entropy)
 
 
+def _measure_state(state: np.ndarray, config: AvalancheConfig) -> tuple[np.ndarray, np.ndarray]:
+    s = np.zeros(config.L, dtype=float)
+    entropies = np.zeros(config.L, dtype=float)
+    for ell in range(config.L):
+        z = _spin_z_expectation(state, config, ell)
+        s[ell] = 0.5 * (1.0 - z)
+        entropies[ell] = _single_spin_entropy(state, config, ell)
+    return s, entropies
+
+
 def compute_observables(times: np.ndarray, trajectories: np.ndarray, config: AvalancheConfig) -> dict[str, np.ndarray]:
     n_steps = len(times)
     s = np.zeros((n_steps, config.L), dtype=float)
     entropies = np.zeros((n_steps, config.L), dtype=float)
     for step in range(n_steps):
-        state = trajectories[step]
-        for ell in range(config.L):
-            z = _spin_z_expectation(state, config, ell)
-            s[step, ell] = 0.5 * (1.0 - z)
-            entropies[step, ell] = _single_spin_entropy(state, config, ell)
+        s[step], entropies[step] = _measure_state(trajectories[step], config)
     front = np.maximum(0, np.argmax(s > 0.5, axis=1) + 1)
     front[np.all(s <= 0.5, axis=1)] = 0
     t_ell = np.full(config.L, np.nan)
