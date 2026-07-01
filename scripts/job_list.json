@@ -3,1158 +3,6 @@
     "config": {
       "N0": 4,
       "L": 3,
-      "xi": 1.0,
-      "g": 0.5,
-      "h_dist": [
-        "uniform",
-        -0.5,
-        0.5
-      ],
-      "J": 0.0,
-      "lambda_dope": 0,
-      "spec_mode": "gue",
-      "W": 1.0,
-      "dt": 0.1,
-      "t_max": 0.5,
-      "n_typicality": 2,
-      "thermalization_threshold": 0.4,
-      "seed": 0,
-      "extra": []
-    },
-    "seed": 1
-  },
-  {
-    "config": {
-      "N0": 4,
-      "L": 3,
-      "xi": 1.0,
-      "g": 0.5,
-      "h_dist": [
-        "uniform",
-        -0.5,
-        0.5
-      ],
-      "J": 0.0,
-      "lambda_dope": 0,
-      "spec_mode": "gue",
-      "W": 1.0,
-      "dt": 0.1,
-      "t_max": 0.5,
-      "n_typicality": 2,
-      "thermalization_threshold": 0.4,
-      "seed": 0,
-      "extra": []
-    },
-    "seed": 2
-  },
-  {
-    "config": {
-      "N0": 4,
-      "L": 3,
-      "xi": 1.0,
-      "g": 0.5,
-      "h_dist": [
-        "uniform",
-        -0.5,
-        0.5
-      ],
-      "J": 0.0,
-      "lambda_dope": 0,
-      "spec_mode": "gue",
-      "W": 1.0,
-      "dt": 0.1,
-      "t_max": 0.5,
-      "n_typicality": 2,
-      "thermalization_threshold": 0.4,
-      "seed": 0,
-      "extra": []
-    },
-    "seed": 3
-  },
-  {
-    "config": {
-      "N0": 4,
-      "L": 3,
-      "xi": 1.0,
-      "g": 0.5,
-      "h_dist": [
-        "uniform",
-        -0.5,
-        0.5
-      ],
-      "J": 0.0,
-      "lambda_dope": 0,
-      "spec_mode": "gue",
-      "W": 1.0,
-      "dt": 0.1,
-      "t_max": 0.5,
-      "n_typicality": 2,
-      "thermalization_threshold": 0.4,
-      "seed": 0,
-      "extra": []
-    },
-    "seed": 4
-  },
-  {
-    "config": {
-      "N0": 4,
-      "L": 3,
-      "xi": 1.0,
-      "g": 0.5,
-      "h_dist": [
-        "uniform",
-        -0.5,
-        0.5
-      ],
-      "J": 0.0,
-      "lambda_dope": 0,
-      "spec_mode": "poisson",
-      "W": 1.0,
-      "dt": 0.1,
-      "t_max": 0.5,
-      "n_typicality": 2,
-      "thermalization_threshold": 0.4,
-      "seed": 0,
-      "extra": []
-    },
-    "seed": 1
-  },
-  {
-    "config": {
-      "N0": 4,
-      "L": 3,
-      "xi": 1.0,
-      "g": 0.5,
-      "h_dist": [
-        "uniform",
-        -0.5,
-        0.5
-      ],
-      "J": 0.0,
-      "lambda_dope": 0,
-      "spec_mode": "poisson",
-      "W": 1.0,
-      "dt": 0.1,
-      "t_max": 0.5,
-      "n_typicality": 2,
-      "thermalization_threshold": 0.4,
-      "seed": 0,
-      "extra": []
-    },
-    "seed": 2
-  },
-  {
-    "config": {
-      "N0": 4,
-      "L": 3,
-      "xi": 1.0,
-      "g": 0.5,
-      "h_dist": [
-        "uniform",
-        -0.5,
-        0.5
-      ],
-      "J": 0.0,
-      "lambda_dope": 0,
-      "spec_mode": "poisson",
-      "W": 1.0,
-      "dt": 0.1,
-      "t_max": 0.5,
-      "n_typicality": 2,
-      "thermalization_threshold": 0.4,
-      "seed": 0,
-      "extra": []
-    },
-    "seed": 3
-  },
-  {
-    "config": {
-      "N0": 4,
-      "L": 3,
-      "xi": 1.0,
-      "g": 0.5,
-      "h_dist": [
-        "uniform",
-        -0.5,
-        0.5
-      ],
-      "J": 0.0,
-      "lambda_dope": 0,
-      "spec_mode": "poisson",
-      "W": 1.0,
-      "dt": 0.1,
-      "t_max": 0.5,
-      "n_typicality": 2,
-      "thermalization_threshold": 0.4,
-      "seed": 0,
-      "extra": []
-    },
-    "seed": 4
-  },
-  {
-    "config": {
-      "N0": 4,
-      "L": 3,
-      "xi": 1.0,
-      "g": 0.5,
-      "h_dist": [
-        "uniform",
-        -0.5,
-        0.5
-      ],
-      "J": 0.0,
-      "lambda_dope": "haar",
-      "spec_mode": "gue",
-      "W": 1.0,
-      "dt": 0.1,
-      "t_max": 0.5,
-      "n_typicality": 2,
-      "thermalization_threshold": 0.4,
-      "seed": 0,
-      "extra": []
-    },
-    "seed": 1
-  },
-  {
-    "config": {
-      "N0": 4,
-      "L": 3,
-      "xi": 1.0,
-      "g": 0.5,
-      "h_dist": [
-        "uniform",
-        -0.5,
-        0.5
-      ],
-      "J": 0.0,
-      "lambda_dope": "haar",
-      "spec_mode": "gue",
-      "W": 1.0,
-      "dt": 0.1,
-      "t_max": 0.5,
-      "n_typicality": 2,
-      "thermalization_threshold": 0.4,
-      "seed": 0,
-      "extra": []
-    },
-    "seed": 2
-  },
-  {
-    "config": {
-      "N0": 4,
-      "L": 3,
-      "xi": 1.0,
-      "g": 0.5,
-      "h_dist": [
-        "uniform",
-        -0.5,
-        0.5
-      ],
-      "J": 0.0,
-      "lambda_dope": "haar",
-      "spec_mode": "gue",
-      "W": 1.0,
-      "dt": 0.1,
-      "t_max": 0.5,
-      "n_typicality": 2,
-      "thermalization_threshold": 0.4,
-      "seed": 0,
-      "extra": []
-    },
-    "seed": 3
-  },
-  {
-    "config": {
-      "N0": 4,
-      "L": 3,
-      "xi": 1.0,
-      "g": 0.5,
-      "h_dist": [
-        "uniform",
-        -0.5,
-        0.5
-      ],
-      "J": 0.0,
-      "lambda_dope": "haar",
-      "spec_mode": "gue",
-      "W": 1.0,
-      "dt": 0.1,
-      "t_max": 0.5,
-      "n_typicality": 2,
-      "thermalization_threshold": 0.4,
-      "seed": 0,
-      "extra": []
-    },
-    "seed": 4
-  },
-  {
-    "config": {
-      "N0": 4,
-      "L": 3,
-      "xi": 1.0,
-      "g": 0.5,
-      "h_dist": [
-        "uniform",
-        -0.5,
-        0.5
-      ],
-      "J": 0.0,
-      "lambda_dope": "haar",
-      "spec_mode": "poisson",
-      "W": 1.0,
-      "dt": 0.1,
-      "t_max": 0.5,
-      "n_typicality": 2,
-      "thermalization_threshold": 0.4,
-      "seed": 0,
-      "extra": []
-    },
-    "seed": 1
-  },
-  {
-    "config": {
-      "N0": 4,
-      "L": 3,
-      "xi": 1.0,
-      "g": 0.5,
-      "h_dist": [
-        "uniform",
-        -0.5,
-        0.5
-      ],
-      "J": 0.0,
-      "lambda_dope": "haar",
-      "spec_mode": "poisson",
-      "W": 1.0,
-      "dt": 0.1,
-      "t_max": 0.5,
-      "n_typicality": 2,
-      "thermalization_threshold": 0.4,
-      "seed": 0,
-      "extra": []
-    },
-    "seed": 2
-  },
-  {
-    "config": {
-      "N0": 4,
-      "L": 3,
-      "xi": 1.0,
-      "g": 0.5,
-      "h_dist": [
-        "uniform",
-        -0.5,
-        0.5
-      ],
-      "J": 0.0,
-      "lambda_dope": "haar",
-      "spec_mode": "poisson",
-      "W": 1.0,
-      "dt": 0.1,
-      "t_max": 0.5,
-      "n_typicality": 2,
-      "thermalization_threshold": 0.4,
-      "seed": 0,
-      "extra": []
-    },
-    "seed": 3
-  },
-  {
-    "config": {
-      "N0": 4,
-      "L": 3,
-      "xi": 1.0,
-      "g": 0.5,
-      "h_dist": [
-        "uniform",
-        -0.5,
-        0.5
-      ],
-      "J": 0.0,
-      "lambda_dope": "haar",
-      "spec_mode": "poisson",
-      "W": 1.0,
-      "dt": 0.1,
-      "t_max": 0.5,
-      "n_typicality": 2,
-      "thermalization_threshold": 0.4,
-      "seed": 0,
-      "extra": []
-    },
-    "seed": 4
-  },
-  {
-    "config": {
-      "N0": 4,
-      "L": 3,
-      "xi": 1.0,
-      "g": 1.0,
-      "h_dist": [
-        "uniform",
-        -0.5,
-        0.5
-      ],
-      "J": 0.0,
-      "lambda_dope": 0,
-      "spec_mode": "gue",
-      "W": 1.0,
-      "dt": 0.1,
-      "t_max": 0.5,
-      "n_typicality": 2,
-      "thermalization_threshold": 0.4,
-      "seed": 0,
-      "extra": []
-    },
-    "seed": 1
-  },
-  {
-    "config": {
-      "N0": 4,
-      "L": 3,
-      "xi": 1.0,
-      "g": 1.0,
-      "h_dist": [
-        "uniform",
-        -0.5,
-        0.5
-      ],
-      "J": 0.0,
-      "lambda_dope": 0,
-      "spec_mode": "gue",
-      "W": 1.0,
-      "dt": 0.1,
-      "t_max": 0.5,
-      "n_typicality": 2,
-      "thermalization_threshold": 0.4,
-      "seed": 0,
-      "extra": []
-    },
-    "seed": 2
-  },
-  {
-    "config": {
-      "N0": 4,
-      "L": 3,
-      "xi": 1.0,
-      "g": 1.0,
-      "h_dist": [
-        "uniform",
-        -0.5,
-        0.5
-      ],
-      "J": 0.0,
-      "lambda_dope": 0,
-      "spec_mode": "gue",
-      "W": 1.0,
-      "dt": 0.1,
-      "t_max": 0.5,
-      "n_typicality": 2,
-      "thermalization_threshold": 0.4,
-      "seed": 0,
-      "extra": []
-    },
-    "seed": 3
-  },
-  {
-    "config": {
-      "N0": 4,
-      "L": 3,
-      "xi": 1.0,
-      "g": 1.0,
-      "h_dist": [
-        "uniform",
-        -0.5,
-        0.5
-      ],
-      "J": 0.0,
-      "lambda_dope": 0,
-      "spec_mode": "gue",
-      "W": 1.0,
-      "dt": 0.1,
-      "t_max": 0.5,
-      "n_typicality": 2,
-      "thermalization_threshold": 0.4,
-      "seed": 0,
-      "extra": []
-    },
-    "seed": 4
-  },
-  {
-    "config": {
-      "N0": 4,
-      "L": 3,
-      "xi": 1.0,
-      "g": 1.0,
-      "h_dist": [
-        "uniform",
-        -0.5,
-        0.5
-      ],
-      "J": 0.0,
-      "lambda_dope": 0,
-      "spec_mode": "poisson",
-      "W": 1.0,
-      "dt": 0.1,
-      "t_max": 0.5,
-      "n_typicality": 2,
-      "thermalization_threshold": 0.4,
-      "seed": 0,
-      "extra": []
-    },
-    "seed": 1
-  },
-  {
-    "config": {
-      "N0": 4,
-      "L": 3,
-      "xi": 1.0,
-      "g": 1.0,
-      "h_dist": [
-        "uniform",
-        -0.5,
-        0.5
-      ],
-      "J": 0.0,
-      "lambda_dope": 0,
-      "spec_mode": "poisson",
-      "W": 1.0,
-      "dt": 0.1,
-      "t_max": 0.5,
-      "n_typicality": 2,
-      "thermalization_threshold": 0.4,
-      "seed": 0,
-      "extra": []
-    },
-    "seed": 2
-  },
-  {
-    "config": {
-      "N0": 4,
-      "L": 3,
-      "xi": 1.0,
-      "g": 1.0,
-      "h_dist": [
-        "uniform",
-        -0.5,
-        0.5
-      ],
-      "J": 0.0,
-      "lambda_dope": 0,
-      "spec_mode": "poisson",
-      "W": 1.0,
-      "dt": 0.1,
-      "t_max": 0.5,
-      "n_typicality": 2,
-      "thermalization_threshold": 0.4,
-      "seed": 0,
-      "extra": []
-    },
-    "seed": 3
-  },
-  {
-    "config": {
-      "N0": 4,
-      "L": 3,
-      "xi": 1.0,
-      "g": 1.0,
-      "h_dist": [
-        "uniform",
-        -0.5,
-        0.5
-      ],
-      "J": 0.0,
-      "lambda_dope": 0,
-      "spec_mode": "poisson",
-      "W": 1.0,
-      "dt": 0.1,
-      "t_max": 0.5,
-      "n_typicality": 2,
-      "thermalization_threshold": 0.4,
-      "seed": 0,
-      "extra": []
-    },
-    "seed": 4
-  },
-  {
-    "config": {
-      "N0": 4,
-      "L": 3,
-      "xi": 1.0,
-      "g": 1.0,
-      "h_dist": [
-        "uniform",
-        -0.5,
-        0.5
-      ],
-      "J": 0.0,
-      "lambda_dope": "haar",
-      "spec_mode": "gue",
-      "W": 1.0,
-      "dt": 0.1,
-      "t_max": 0.5,
-      "n_typicality": 2,
-      "thermalization_threshold": 0.4,
-      "seed": 0,
-      "extra": []
-    },
-    "seed": 1
-  },
-  {
-    "config": {
-      "N0": 4,
-      "L": 3,
-      "xi": 1.0,
-      "g": 1.0,
-      "h_dist": [
-        "uniform",
-        -0.5,
-        0.5
-      ],
-      "J": 0.0,
-      "lambda_dope": "haar",
-      "spec_mode": "gue",
-      "W": 1.0,
-      "dt": 0.1,
-      "t_max": 0.5,
-      "n_typicality": 2,
-      "thermalization_threshold": 0.4,
-      "seed": 0,
-      "extra": []
-    },
-    "seed": 2
-  },
-  {
-    "config": {
-      "N0": 4,
-      "L": 3,
-      "xi": 1.0,
-      "g": 1.0,
-      "h_dist": [
-        "uniform",
-        -0.5,
-        0.5
-      ],
-      "J": 0.0,
-      "lambda_dope": "haar",
-      "spec_mode": "gue",
-      "W": 1.0,
-      "dt": 0.1,
-      "t_max": 0.5,
-      "n_typicality": 2,
-      "thermalization_threshold": 0.4,
-      "seed": 0,
-      "extra": []
-    },
-    "seed": 3
-  },
-  {
-    "config": {
-      "N0": 4,
-      "L": 3,
-      "xi": 1.0,
-      "g": 1.0,
-      "h_dist": [
-        "uniform",
-        -0.5,
-        0.5
-      ],
-      "J": 0.0,
-      "lambda_dope": "haar",
-      "spec_mode": "gue",
-      "W": 1.0,
-      "dt": 0.1,
-      "t_max": 0.5,
-      "n_typicality": 2,
-      "thermalization_threshold": 0.4,
-      "seed": 0,
-      "extra": []
-    },
-    "seed": 4
-  },
-  {
-    "config": {
-      "N0": 4,
-      "L": 3,
-      "xi": 1.0,
-      "g": 1.0,
-      "h_dist": [
-        "uniform",
-        -0.5,
-        0.5
-      ],
-      "J": 0.0,
-      "lambda_dope": "haar",
-      "spec_mode": "poisson",
-      "W": 1.0,
-      "dt": 0.1,
-      "t_max": 0.5,
-      "n_typicality": 2,
-      "thermalization_threshold": 0.4,
-      "seed": 0,
-      "extra": []
-    },
-    "seed": 1
-  },
-  {
-    "config": {
-      "N0": 4,
-      "L": 3,
-      "xi": 1.0,
-      "g": 1.0,
-      "h_dist": [
-        "uniform",
-        -0.5,
-        0.5
-      ],
-      "J": 0.0,
-      "lambda_dope": "haar",
-      "spec_mode": "poisson",
-      "W": 1.0,
-      "dt": 0.1,
-      "t_max": 0.5,
-      "n_typicality": 2,
-      "thermalization_threshold": 0.4,
-      "seed": 0,
-      "extra": []
-    },
-    "seed": 2
-  },
-  {
-    "config": {
-      "N0": 4,
-      "L": 3,
-      "xi": 1.0,
-      "g": 1.0,
-      "h_dist": [
-        "uniform",
-        -0.5,
-        0.5
-      ],
-      "J": 0.0,
-      "lambda_dope": "haar",
-      "spec_mode": "poisson",
-      "W": 1.0,
-      "dt": 0.1,
-      "t_max": 0.5,
-      "n_typicality": 2,
-      "thermalization_threshold": 0.4,
-      "seed": 0,
-      "extra": []
-    },
-    "seed": 3
-  },
-  {
-    "config": {
-      "N0": 4,
-      "L": 3,
-      "xi": 1.0,
-      "g": 1.0,
-      "h_dist": [
-        "uniform",
-        -0.5,
-        0.5
-      ],
-      "J": 0.0,
-      "lambda_dope": "haar",
-      "spec_mode": "poisson",
-      "W": 1.0,
-      "dt": 0.1,
-      "t_max": 0.5,
-      "n_typicality": 2,
-      "thermalization_threshold": 0.4,
-      "seed": 0,
-      "extra": []
-    },
-    "seed": 4
-  },
-  {
-    "config": {
-      "N0": 4,
-      "L": 3,
-      "xi": 2.0,
-      "g": 0.5,
-      "h_dist": [
-        "uniform",
-        -0.5,
-        0.5
-      ],
-      "J": 0.0,
-      "lambda_dope": 0,
-      "spec_mode": "gue",
-      "W": 1.0,
-      "dt": 0.1,
-      "t_max": 0.5,
-      "n_typicality": 2,
-      "thermalization_threshold": 0.4,
-      "seed": 0,
-      "extra": []
-    },
-    "seed": 1
-  },
-  {
-    "config": {
-      "N0": 4,
-      "L": 3,
-      "xi": 2.0,
-      "g": 0.5,
-      "h_dist": [
-        "uniform",
-        -0.5,
-        0.5
-      ],
-      "J": 0.0,
-      "lambda_dope": 0,
-      "spec_mode": "gue",
-      "W": 1.0,
-      "dt": 0.1,
-      "t_max": 0.5,
-      "n_typicality": 2,
-      "thermalization_threshold": 0.4,
-      "seed": 0,
-      "extra": []
-    },
-    "seed": 2
-  },
-  {
-    "config": {
-      "N0": 4,
-      "L": 3,
-      "xi": 2.0,
-      "g": 0.5,
-      "h_dist": [
-        "uniform",
-        -0.5,
-        0.5
-      ],
-      "J": 0.0,
-      "lambda_dope": 0,
-      "spec_mode": "gue",
-      "W": 1.0,
-      "dt": 0.1,
-      "t_max": 0.5,
-      "n_typicality": 2,
-      "thermalization_threshold": 0.4,
-      "seed": 0,
-      "extra": []
-    },
-    "seed": 3
-  },
-  {
-    "config": {
-      "N0": 4,
-      "L": 3,
-      "xi": 2.0,
-      "g": 0.5,
-      "h_dist": [
-        "uniform",
-        -0.5,
-        0.5
-      ],
-      "J": 0.0,
-      "lambda_dope": 0,
-      "spec_mode": "gue",
-      "W": 1.0,
-      "dt": 0.1,
-      "t_max": 0.5,
-      "n_typicality": 2,
-      "thermalization_threshold": 0.4,
-      "seed": 0,
-      "extra": []
-    },
-    "seed": 4
-  },
-  {
-    "config": {
-      "N0": 4,
-      "L": 3,
-      "xi": 2.0,
-      "g": 0.5,
-      "h_dist": [
-        "uniform",
-        -0.5,
-        0.5
-      ],
-      "J": 0.0,
-      "lambda_dope": 0,
-      "spec_mode": "poisson",
-      "W": 1.0,
-      "dt": 0.1,
-      "t_max": 0.5,
-      "n_typicality": 2,
-      "thermalization_threshold": 0.4,
-      "seed": 0,
-      "extra": []
-    },
-    "seed": 1
-  },
-  {
-    "config": {
-      "N0": 4,
-      "L": 3,
-      "xi": 2.0,
-      "g": 0.5,
-      "h_dist": [
-        "uniform",
-        -0.5,
-        0.5
-      ],
-      "J": 0.0,
-      "lambda_dope": 0,
-      "spec_mode": "poisson",
-      "W": 1.0,
-      "dt": 0.1,
-      "t_max": 0.5,
-      "n_typicality": 2,
-      "thermalization_threshold": 0.4,
-      "seed": 0,
-      "extra": []
-    },
-    "seed": 2
-  },
-  {
-    "config": {
-      "N0": 4,
-      "L": 3,
-      "xi": 2.0,
-      "g": 0.5,
-      "h_dist": [
-        "uniform",
-        -0.5,
-        0.5
-      ],
-      "J": 0.0,
-      "lambda_dope": 0,
-      "spec_mode": "poisson",
-      "W": 1.0,
-      "dt": 0.1,
-      "t_max": 0.5,
-      "n_typicality": 2,
-      "thermalization_threshold": 0.4,
-      "seed": 0,
-      "extra": []
-    },
-    "seed": 3
-  },
-  {
-    "config": {
-      "N0": 4,
-      "L": 3,
-      "xi": 2.0,
-      "g": 0.5,
-      "h_dist": [
-        "uniform",
-        -0.5,
-        0.5
-      ],
-      "J": 0.0,
-      "lambda_dope": 0,
-      "spec_mode": "poisson",
-      "W": 1.0,
-      "dt": 0.1,
-      "t_max": 0.5,
-      "n_typicality": 2,
-      "thermalization_threshold": 0.4,
-      "seed": 0,
-      "extra": []
-    },
-    "seed": 4
-  },
-  {
-    "config": {
-      "N0": 4,
-      "L": 3,
-      "xi": 2.0,
-      "g": 0.5,
-      "h_dist": [
-        "uniform",
-        -0.5,
-        0.5
-      ],
-      "J": 0.0,
-      "lambda_dope": "haar",
-      "spec_mode": "gue",
-      "W": 1.0,
-      "dt": 0.1,
-      "t_max": 0.5,
-      "n_typicality": 2,
-      "thermalization_threshold": 0.4,
-      "seed": 0,
-      "extra": []
-    },
-    "seed": 1
-  },
-  {
-    "config": {
-      "N0": 4,
-      "L": 3,
-      "xi": 2.0,
-      "g": 0.5,
-      "h_dist": [
-        "uniform",
-        -0.5,
-        0.5
-      ],
-      "J": 0.0,
-      "lambda_dope": "haar",
-      "spec_mode": "gue",
-      "W": 1.0,
-      "dt": 0.1,
-      "t_max": 0.5,
-      "n_typicality": 2,
-      "thermalization_threshold": 0.4,
-      "seed": 0,
-      "extra": []
-    },
-    "seed": 2
-  },
-  {
-    "config": {
-      "N0": 4,
-      "L": 3,
-      "xi": 2.0,
-      "g": 0.5,
-      "h_dist": [
-        "uniform",
-        -0.5,
-        0.5
-      ],
-      "J": 0.0,
-      "lambda_dope": "haar",
-      "spec_mode": "gue",
-      "W": 1.0,
-      "dt": 0.1,
-      "t_max": 0.5,
-      "n_typicality": 2,
-      "thermalization_threshold": 0.4,
-      "seed": 0,
-      "extra": []
-    },
-    "seed": 3
-  },
-  {
-    "config": {
-      "N0": 4,
-      "L": 3,
-      "xi": 2.0,
-      "g": 0.5,
-      "h_dist": [
-        "uniform",
-        -0.5,
-        0.5
-      ],
-      "J": 0.0,
-      "lambda_dope": "haar",
-      "spec_mode": "gue",
-      "W": 1.0,
-      "dt": 0.1,
-      "t_max": 0.5,
-      "n_typicality": 2,
-      "thermalization_threshold": 0.4,
-      "seed": 0,
-      "extra": []
-    },
-    "seed": 4
-  },
-  {
-    "config": {
-      "N0": 4,
-      "L": 3,
-      "xi": 2.0,
-      "g": 0.5,
-      "h_dist": [
-        "uniform",
-        -0.5,
-        0.5
-      ],
-      "J": 0.0,
-      "lambda_dope": "haar",
-      "spec_mode": "poisson",
-      "W": 1.0,
-      "dt": 0.1,
-      "t_max": 0.5,
-      "n_typicality": 2,
-      "thermalization_threshold": 0.4,
-      "seed": 0,
-      "extra": []
-    },
-    "seed": 1
-  },
-  {
-    "config": {
-      "N0": 4,
-      "L": 3,
-      "xi": 2.0,
-      "g": 0.5,
-      "h_dist": [
-        "uniform",
-        -0.5,
-        0.5
-      ],
-      "J": 0.0,
-      "lambda_dope": "haar",
-      "spec_mode": "poisson",
-      "W": 1.0,
-      "dt": 0.1,
-      "t_max": 0.5,
-      "n_typicality": 2,
-      "thermalization_threshold": 0.4,
-      "seed": 0,
-      "extra": []
-    },
-    "seed": 2
-  },
-  {
-    "config": {
-      "N0": 4,
-      "L": 3,
-      "xi": 2.0,
-      "g": 0.5,
-      "h_dist": [
-        "uniform",
-        -0.5,
-        0.5
-      ],
-      "J": 0.0,
-      "lambda_dope": "haar",
-      "spec_mode": "poisson",
-      "W": 1.0,
-      "dt": 0.1,
-      "t_max": 0.5,
-      "n_typicality": 2,
-      "thermalization_threshold": 0.4,
-      "seed": 0,
-      "extra": []
-    },
-    "seed": 3
-  },
-  {
-    "config": {
-      "N0": 4,
-      "L": 3,
-      "xi": 2.0,
-      "g": 0.5,
-      "h_dist": [
-        "uniform",
-        -0.5,
-        0.5
-      ],
-      "J": 0.0,
-      "lambda_dope": "haar",
-      "spec_mode": "poisson",
-      "W": 1.0,
-      "dt": 0.1,
-      "t_max": 0.5,
-      "n_typicality": 2,
-      "thermalization_threshold": 0.4,
-      "seed": 0,
-      "extra": []
-    },
-    "seed": 4
-  },
-  {
-    "config": {
-      "N0": 4,
-      "L": 3,
       "xi": 2.0,
       "g": 1.0,
       "h_dist": [
@@ -1167,7 +15,7 @@
       "spec_mode": "gue",
       "W": 1.0,
       "dt": 0.1,
-      "t_max": 0.5,
+      "t_max": 2.0,
       "n_typicality": 2,
       "thermalization_threshold": 0.4,
       "seed": 0,
@@ -1191,7 +39,7 @@
       "spec_mode": "gue",
       "W": 1.0,
       "dt": 0.1,
-      "t_max": 0.5,
+      "t_max": 2.0,
       "n_typicality": 2,
       "thermalization_threshold": 0.4,
       "seed": 0,
@@ -1215,7 +63,7 @@
       "spec_mode": "gue",
       "W": 1.0,
       "dt": 0.1,
-      "t_max": 0.5,
+      "t_max": 2.0,
       "n_typicality": 2,
       "thermalization_threshold": 0.4,
       "seed": 0,
@@ -1239,7 +87,7 @@
       "spec_mode": "gue",
       "W": 1.0,
       "dt": 0.1,
-      "t_max": 0.5,
+      "t_max": 2.0,
       "n_typicality": 2,
       "thermalization_threshold": 0.4,
       "seed": 0,
@@ -1263,7 +111,7 @@
       "spec_mode": "poisson",
       "W": 1.0,
       "dt": 0.1,
-      "t_max": 0.5,
+      "t_max": 2.0,
       "n_typicality": 2,
       "thermalization_threshold": 0.4,
       "seed": 0,
@@ -1287,7 +135,7 @@
       "spec_mode": "poisson",
       "W": 1.0,
       "dt": 0.1,
-      "t_max": 0.5,
+      "t_max": 2.0,
       "n_typicality": 2,
       "thermalization_threshold": 0.4,
       "seed": 0,
@@ -1311,7 +159,7 @@
       "spec_mode": "poisson",
       "W": 1.0,
       "dt": 0.1,
-      "t_max": 0.5,
+      "t_max": 2.0,
       "n_typicality": 2,
       "thermalization_threshold": 0.4,
       "seed": 0,
@@ -1335,7 +183,7 @@
       "spec_mode": "poisson",
       "W": 1.0,
       "dt": 0.1,
-      "t_max": 0.5,
+      "t_max": 2.0,
       "n_typicality": 2,
       "thermalization_threshold": 0.4,
       "seed": 0,
@@ -1359,7 +207,7 @@
       "spec_mode": "gue",
       "W": 1.0,
       "dt": 0.1,
-      "t_max": 0.5,
+      "t_max": 2.0,
       "n_typicality": 2,
       "thermalization_threshold": 0.4,
       "seed": 0,
@@ -1383,7 +231,7 @@
       "spec_mode": "gue",
       "W": 1.0,
       "dt": 0.1,
-      "t_max": 0.5,
+      "t_max": 2.0,
       "n_typicality": 2,
       "thermalization_threshold": 0.4,
       "seed": 0,
@@ -1407,7 +255,7 @@
       "spec_mode": "gue",
       "W": 1.0,
       "dt": 0.1,
-      "t_max": 0.5,
+      "t_max": 2.0,
       "n_typicality": 2,
       "thermalization_threshold": 0.4,
       "seed": 0,
@@ -1431,7 +279,7 @@
       "spec_mode": "gue",
       "W": 1.0,
       "dt": 0.1,
-      "t_max": 0.5,
+      "t_max": 2.0,
       "n_typicality": 2,
       "thermalization_threshold": 0.4,
       "seed": 0,
@@ -1455,7 +303,7 @@
       "spec_mode": "poisson",
       "W": 1.0,
       "dt": 0.1,
-      "t_max": 0.5,
+      "t_max": 2.0,
       "n_typicality": 2,
       "thermalization_threshold": 0.4,
       "seed": 0,
@@ -1479,7 +327,7 @@
       "spec_mode": "poisson",
       "W": 1.0,
       "dt": 0.1,
-      "t_max": 0.5,
+      "t_max": 2.0,
       "n_typicality": 2,
       "thermalization_threshold": 0.4,
       "seed": 0,
@@ -1503,7 +351,7 @@
       "spec_mode": "poisson",
       "W": 1.0,
       "dt": 0.1,
-      "t_max": 0.5,
+      "t_max": 2.0,
       "n_typicality": 2,
       "thermalization_threshold": 0.4,
       "seed": 0,
@@ -1527,7 +375,1159 @@
       "spec_mode": "poisson",
       "W": 1.0,
       "dt": 0.1,
-      "t_max": 0.5,
+      "t_max": 2.0,
+      "n_typicality": 2,
+      "thermalization_threshold": 0.4,
+      "seed": 0,
+      "extra": []
+    },
+    "seed": 4
+  },
+  {
+    "config": {
+      "N0": 4,
+      "L": 3,
+      "xi": 2.0,
+      "g": 2.0,
+      "h_dist": [
+        "uniform",
+        -0.5,
+        0.5
+      ],
+      "J": 0.0,
+      "lambda_dope": 0,
+      "spec_mode": "gue",
+      "W": 1.0,
+      "dt": 0.1,
+      "t_max": 2.0,
+      "n_typicality": 2,
+      "thermalization_threshold": 0.4,
+      "seed": 0,
+      "extra": []
+    },
+    "seed": 1
+  },
+  {
+    "config": {
+      "N0": 4,
+      "L": 3,
+      "xi": 2.0,
+      "g": 2.0,
+      "h_dist": [
+        "uniform",
+        -0.5,
+        0.5
+      ],
+      "J": 0.0,
+      "lambda_dope": 0,
+      "spec_mode": "gue",
+      "W": 1.0,
+      "dt": 0.1,
+      "t_max": 2.0,
+      "n_typicality": 2,
+      "thermalization_threshold": 0.4,
+      "seed": 0,
+      "extra": []
+    },
+    "seed": 2
+  },
+  {
+    "config": {
+      "N0": 4,
+      "L": 3,
+      "xi": 2.0,
+      "g": 2.0,
+      "h_dist": [
+        "uniform",
+        -0.5,
+        0.5
+      ],
+      "J": 0.0,
+      "lambda_dope": 0,
+      "spec_mode": "gue",
+      "W": 1.0,
+      "dt": 0.1,
+      "t_max": 2.0,
+      "n_typicality": 2,
+      "thermalization_threshold": 0.4,
+      "seed": 0,
+      "extra": []
+    },
+    "seed": 3
+  },
+  {
+    "config": {
+      "N0": 4,
+      "L": 3,
+      "xi": 2.0,
+      "g": 2.0,
+      "h_dist": [
+        "uniform",
+        -0.5,
+        0.5
+      ],
+      "J": 0.0,
+      "lambda_dope": 0,
+      "spec_mode": "gue",
+      "W": 1.0,
+      "dt": 0.1,
+      "t_max": 2.0,
+      "n_typicality": 2,
+      "thermalization_threshold": 0.4,
+      "seed": 0,
+      "extra": []
+    },
+    "seed": 4
+  },
+  {
+    "config": {
+      "N0": 4,
+      "L": 3,
+      "xi": 2.0,
+      "g": 2.0,
+      "h_dist": [
+        "uniform",
+        -0.5,
+        0.5
+      ],
+      "J": 0.0,
+      "lambda_dope": 0,
+      "spec_mode": "poisson",
+      "W": 1.0,
+      "dt": 0.1,
+      "t_max": 2.0,
+      "n_typicality": 2,
+      "thermalization_threshold": 0.4,
+      "seed": 0,
+      "extra": []
+    },
+    "seed": 1
+  },
+  {
+    "config": {
+      "N0": 4,
+      "L": 3,
+      "xi": 2.0,
+      "g": 2.0,
+      "h_dist": [
+        "uniform",
+        -0.5,
+        0.5
+      ],
+      "J": 0.0,
+      "lambda_dope": 0,
+      "spec_mode": "poisson",
+      "W": 1.0,
+      "dt": 0.1,
+      "t_max": 2.0,
+      "n_typicality": 2,
+      "thermalization_threshold": 0.4,
+      "seed": 0,
+      "extra": []
+    },
+    "seed": 2
+  },
+  {
+    "config": {
+      "N0": 4,
+      "L": 3,
+      "xi": 2.0,
+      "g": 2.0,
+      "h_dist": [
+        "uniform",
+        -0.5,
+        0.5
+      ],
+      "J": 0.0,
+      "lambda_dope": 0,
+      "spec_mode": "poisson",
+      "W": 1.0,
+      "dt": 0.1,
+      "t_max": 2.0,
+      "n_typicality": 2,
+      "thermalization_threshold": 0.4,
+      "seed": 0,
+      "extra": []
+    },
+    "seed": 3
+  },
+  {
+    "config": {
+      "N0": 4,
+      "L": 3,
+      "xi": 2.0,
+      "g": 2.0,
+      "h_dist": [
+        "uniform",
+        -0.5,
+        0.5
+      ],
+      "J": 0.0,
+      "lambda_dope": 0,
+      "spec_mode": "poisson",
+      "W": 1.0,
+      "dt": 0.1,
+      "t_max": 2.0,
+      "n_typicality": 2,
+      "thermalization_threshold": 0.4,
+      "seed": 0,
+      "extra": []
+    },
+    "seed": 4
+  },
+  {
+    "config": {
+      "N0": 4,
+      "L": 3,
+      "xi": 2.0,
+      "g": 2.0,
+      "h_dist": [
+        "uniform",
+        -0.5,
+        0.5
+      ],
+      "J": 0.0,
+      "lambda_dope": "haar",
+      "spec_mode": "gue",
+      "W": 1.0,
+      "dt": 0.1,
+      "t_max": 2.0,
+      "n_typicality": 2,
+      "thermalization_threshold": 0.4,
+      "seed": 0,
+      "extra": []
+    },
+    "seed": 1
+  },
+  {
+    "config": {
+      "N0": 4,
+      "L": 3,
+      "xi": 2.0,
+      "g": 2.0,
+      "h_dist": [
+        "uniform",
+        -0.5,
+        0.5
+      ],
+      "J": 0.0,
+      "lambda_dope": "haar",
+      "spec_mode": "gue",
+      "W": 1.0,
+      "dt": 0.1,
+      "t_max": 2.0,
+      "n_typicality": 2,
+      "thermalization_threshold": 0.4,
+      "seed": 0,
+      "extra": []
+    },
+    "seed": 2
+  },
+  {
+    "config": {
+      "N0": 4,
+      "L": 3,
+      "xi": 2.0,
+      "g": 2.0,
+      "h_dist": [
+        "uniform",
+        -0.5,
+        0.5
+      ],
+      "J": 0.0,
+      "lambda_dope": "haar",
+      "spec_mode": "gue",
+      "W": 1.0,
+      "dt": 0.1,
+      "t_max": 2.0,
+      "n_typicality": 2,
+      "thermalization_threshold": 0.4,
+      "seed": 0,
+      "extra": []
+    },
+    "seed": 3
+  },
+  {
+    "config": {
+      "N0": 4,
+      "L": 3,
+      "xi": 2.0,
+      "g": 2.0,
+      "h_dist": [
+        "uniform",
+        -0.5,
+        0.5
+      ],
+      "J": 0.0,
+      "lambda_dope": "haar",
+      "spec_mode": "gue",
+      "W": 1.0,
+      "dt": 0.1,
+      "t_max": 2.0,
+      "n_typicality": 2,
+      "thermalization_threshold": 0.4,
+      "seed": 0,
+      "extra": []
+    },
+    "seed": 4
+  },
+  {
+    "config": {
+      "N0": 4,
+      "L": 3,
+      "xi": 2.0,
+      "g": 2.0,
+      "h_dist": [
+        "uniform",
+        -0.5,
+        0.5
+      ],
+      "J": 0.0,
+      "lambda_dope": "haar",
+      "spec_mode": "poisson",
+      "W": 1.0,
+      "dt": 0.1,
+      "t_max": 2.0,
+      "n_typicality": 2,
+      "thermalization_threshold": 0.4,
+      "seed": 0,
+      "extra": []
+    },
+    "seed": 1
+  },
+  {
+    "config": {
+      "N0": 4,
+      "L": 3,
+      "xi": 2.0,
+      "g": 2.0,
+      "h_dist": [
+        "uniform",
+        -0.5,
+        0.5
+      ],
+      "J": 0.0,
+      "lambda_dope": "haar",
+      "spec_mode": "poisson",
+      "W": 1.0,
+      "dt": 0.1,
+      "t_max": 2.0,
+      "n_typicality": 2,
+      "thermalization_threshold": 0.4,
+      "seed": 0,
+      "extra": []
+    },
+    "seed": 2
+  },
+  {
+    "config": {
+      "N0": 4,
+      "L": 3,
+      "xi": 2.0,
+      "g": 2.0,
+      "h_dist": [
+        "uniform",
+        -0.5,
+        0.5
+      ],
+      "J": 0.0,
+      "lambda_dope": "haar",
+      "spec_mode": "poisson",
+      "W": 1.0,
+      "dt": 0.1,
+      "t_max": 2.0,
+      "n_typicality": 2,
+      "thermalization_threshold": 0.4,
+      "seed": 0,
+      "extra": []
+    },
+    "seed": 3
+  },
+  {
+    "config": {
+      "N0": 4,
+      "L": 3,
+      "xi": 2.0,
+      "g": 2.0,
+      "h_dist": [
+        "uniform",
+        -0.5,
+        0.5
+      ],
+      "J": 0.0,
+      "lambda_dope": "haar",
+      "spec_mode": "poisson",
+      "W": 1.0,
+      "dt": 0.1,
+      "t_max": 2.0,
+      "n_typicality": 2,
+      "thermalization_threshold": 0.4,
+      "seed": 0,
+      "extra": []
+    },
+    "seed": 4
+  },
+  {
+    "config": {
+      "N0": 4,
+      "L": 3,
+      "xi": 3.0,
+      "g": 1.0,
+      "h_dist": [
+        "uniform",
+        -0.5,
+        0.5
+      ],
+      "J": 0.0,
+      "lambda_dope": 0,
+      "spec_mode": "gue",
+      "W": 1.0,
+      "dt": 0.1,
+      "t_max": 2.0,
+      "n_typicality": 2,
+      "thermalization_threshold": 0.4,
+      "seed": 0,
+      "extra": []
+    },
+    "seed": 1
+  },
+  {
+    "config": {
+      "N0": 4,
+      "L": 3,
+      "xi": 3.0,
+      "g": 1.0,
+      "h_dist": [
+        "uniform",
+        -0.5,
+        0.5
+      ],
+      "J": 0.0,
+      "lambda_dope": 0,
+      "spec_mode": "gue",
+      "W": 1.0,
+      "dt": 0.1,
+      "t_max": 2.0,
+      "n_typicality": 2,
+      "thermalization_threshold": 0.4,
+      "seed": 0,
+      "extra": []
+    },
+    "seed": 2
+  },
+  {
+    "config": {
+      "N0": 4,
+      "L": 3,
+      "xi": 3.0,
+      "g": 1.0,
+      "h_dist": [
+        "uniform",
+        -0.5,
+        0.5
+      ],
+      "J": 0.0,
+      "lambda_dope": 0,
+      "spec_mode": "gue",
+      "W": 1.0,
+      "dt": 0.1,
+      "t_max": 2.0,
+      "n_typicality": 2,
+      "thermalization_threshold": 0.4,
+      "seed": 0,
+      "extra": []
+    },
+    "seed": 3
+  },
+  {
+    "config": {
+      "N0": 4,
+      "L": 3,
+      "xi": 3.0,
+      "g": 1.0,
+      "h_dist": [
+        "uniform",
+        -0.5,
+        0.5
+      ],
+      "J": 0.0,
+      "lambda_dope": 0,
+      "spec_mode": "gue",
+      "W": 1.0,
+      "dt": 0.1,
+      "t_max": 2.0,
+      "n_typicality": 2,
+      "thermalization_threshold": 0.4,
+      "seed": 0,
+      "extra": []
+    },
+    "seed": 4
+  },
+  {
+    "config": {
+      "N0": 4,
+      "L": 3,
+      "xi": 3.0,
+      "g": 1.0,
+      "h_dist": [
+        "uniform",
+        -0.5,
+        0.5
+      ],
+      "J": 0.0,
+      "lambda_dope": 0,
+      "spec_mode": "poisson",
+      "W": 1.0,
+      "dt": 0.1,
+      "t_max": 2.0,
+      "n_typicality": 2,
+      "thermalization_threshold": 0.4,
+      "seed": 0,
+      "extra": []
+    },
+    "seed": 1
+  },
+  {
+    "config": {
+      "N0": 4,
+      "L": 3,
+      "xi": 3.0,
+      "g": 1.0,
+      "h_dist": [
+        "uniform",
+        -0.5,
+        0.5
+      ],
+      "J": 0.0,
+      "lambda_dope": 0,
+      "spec_mode": "poisson",
+      "W": 1.0,
+      "dt": 0.1,
+      "t_max": 2.0,
+      "n_typicality": 2,
+      "thermalization_threshold": 0.4,
+      "seed": 0,
+      "extra": []
+    },
+    "seed": 2
+  },
+  {
+    "config": {
+      "N0": 4,
+      "L": 3,
+      "xi": 3.0,
+      "g": 1.0,
+      "h_dist": [
+        "uniform",
+        -0.5,
+        0.5
+      ],
+      "J": 0.0,
+      "lambda_dope": 0,
+      "spec_mode": "poisson",
+      "W": 1.0,
+      "dt": 0.1,
+      "t_max": 2.0,
+      "n_typicality": 2,
+      "thermalization_threshold": 0.4,
+      "seed": 0,
+      "extra": []
+    },
+    "seed": 3
+  },
+  {
+    "config": {
+      "N0": 4,
+      "L": 3,
+      "xi": 3.0,
+      "g": 1.0,
+      "h_dist": [
+        "uniform",
+        -0.5,
+        0.5
+      ],
+      "J": 0.0,
+      "lambda_dope": 0,
+      "spec_mode": "poisson",
+      "W": 1.0,
+      "dt": 0.1,
+      "t_max": 2.0,
+      "n_typicality": 2,
+      "thermalization_threshold": 0.4,
+      "seed": 0,
+      "extra": []
+    },
+    "seed": 4
+  },
+  {
+    "config": {
+      "N0": 4,
+      "L": 3,
+      "xi": 3.0,
+      "g": 1.0,
+      "h_dist": [
+        "uniform",
+        -0.5,
+        0.5
+      ],
+      "J": 0.0,
+      "lambda_dope": "haar",
+      "spec_mode": "gue",
+      "W": 1.0,
+      "dt": 0.1,
+      "t_max": 2.0,
+      "n_typicality": 2,
+      "thermalization_threshold": 0.4,
+      "seed": 0,
+      "extra": []
+    },
+    "seed": 1
+  },
+  {
+    "config": {
+      "N0": 4,
+      "L": 3,
+      "xi": 3.0,
+      "g": 1.0,
+      "h_dist": [
+        "uniform",
+        -0.5,
+        0.5
+      ],
+      "J": 0.0,
+      "lambda_dope": "haar",
+      "spec_mode": "gue",
+      "W": 1.0,
+      "dt": 0.1,
+      "t_max": 2.0,
+      "n_typicality": 2,
+      "thermalization_threshold": 0.4,
+      "seed": 0,
+      "extra": []
+    },
+    "seed": 2
+  },
+  {
+    "config": {
+      "N0": 4,
+      "L": 3,
+      "xi": 3.0,
+      "g": 1.0,
+      "h_dist": [
+        "uniform",
+        -0.5,
+        0.5
+      ],
+      "J": 0.0,
+      "lambda_dope": "haar",
+      "spec_mode": "gue",
+      "W": 1.0,
+      "dt": 0.1,
+      "t_max": 2.0,
+      "n_typicality": 2,
+      "thermalization_threshold": 0.4,
+      "seed": 0,
+      "extra": []
+    },
+    "seed": 3
+  },
+  {
+    "config": {
+      "N0": 4,
+      "L": 3,
+      "xi": 3.0,
+      "g": 1.0,
+      "h_dist": [
+        "uniform",
+        -0.5,
+        0.5
+      ],
+      "J": 0.0,
+      "lambda_dope": "haar",
+      "spec_mode": "gue",
+      "W": 1.0,
+      "dt": 0.1,
+      "t_max": 2.0,
+      "n_typicality": 2,
+      "thermalization_threshold": 0.4,
+      "seed": 0,
+      "extra": []
+    },
+    "seed": 4
+  },
+  {
+    "config": {
+      "N0": 4,
+      "L": 3,
+      "xi": 3.0,
+      "g": 1.0,
+      "h_dist": [
+        "uniform",
+        -0.5,
+        0.5
+      ],
+      "J": 0.0,
+      "lambda_dope": "haar",
+      "spec_mode": "poisson",
+      "W": 1.0,
+      "dt": 0.1,
+      "t_max": 2.0,
+      "n_typicality": 2,
+      "thermalization_threshold": 0.4,
+      "seed": 0,
+      "extra": []
+    },
+    "seed": 1
+  },
+  {
+    "config": {
+      "N0": 4,
+      "L": 3,
+      "xi": 3.0,
+      "g": 1.0,
+      "h_dist": [
+        "uniform",
+        -0.5,
+        0.5
+      ],
+      "J": 0.0,
+      "lambda_dope": "haar",
+      "spec_mode": "poisson",
+      "W": 1.0,
+      "dt": 0.1,
+      "t_max": 2.0,
+      "n_typicality": 2,
+      "thermalization_threshold": 0.4,
+      "seed": 0,
+      "extra": []
+    },
+    "seed": 2
+  },
+  {
+    "config": {
+      "N0": 4,
+      "L": 3,
+      "xi": 3.0,
+      "g": 1.0,
+      "h_dist": [
+        "uniform",
+        -0.5,
+        0.5
+      ],
+      "J": 0.0,
+      "lambda_dope": "haar",
+      "spec_mode": "poisson",
+      "W": 1.0,
+      "dt": 0.1,
+      "t_max": 2.0,
+      "n_typicality": 2,
+      "thermalization_threshold": 0.4,
+      "seed": 0,
+      "extra": []
+    },
+    "seed": 3
+  },
+  {
+    "config": {
+      "N0": 4,
+      "L": 3,
+      "xi": 3.0,
+      "g": 1.0,
+      "h_dist": [
+        "uniform",
+        -0.5,
+        0.5
+      ],
+      "J": 0.0,
+      "lambda_dope": "haar",
+      "spec_mode": "poisson",
+      "W": 1.0,
+      "dt": 0.1,
+      "t_max": 2.0,
+      "n_typicality": 2,
+      "thermalization_threshold": 0.4,
+      "seed": 0,
+      "extra": []
+    },
+    "seed": 4
+  },
+  {
+    "config": {
+      "N0": 4,
+      "L": 3,
+      "xi": 3.0,
+      "g": 2.0,
+      "h_dist": [
+        "uniform",
+        -0.5,
+        0.5
+      ],
+      "J": 0.0,
+      "lambda_dope": 0,
+      "spec_mode": "gue",
+      "W": 1.0,
+      "dt": 0.1,
+      "t_max": 2.0,
+      "n_typicality": 2,
+      "thermalization_threshold": 0.4,
+      "seed": 0,
+      "extra": []
+    },
+    "seed": 1
+  },
+  {
+    "config": {
+      "N0": 4,
+      "L": 3,
+      "xi": 3.0,
+      "g": 2.0,
+      "h_dist": [
+        "uniform",
+        -0.5,
+        0.5
+      ],
+      "J": 0.0,
+      "lambda_dope": 0,
+      "spec_mode": "gue",
+      "W": 1.0,
+      "dt": 0.1,
+      "t_max": 2.0,
+      "n_typicality": 2,
+      "thermalization_threshold": 0.4,
+      "seed": 0,
+      "extra": []
+    },
+    "seed": 2
+  },
+  {
+    "config": {
+      "N0": 4,
+      "L": 3,
+      "xi": 3.0,
+      "g": 2.0,
+      "h_dist": [
+        "uniform",
+        -0.5,
+        0.5
+      ],
+      "J": 0.0,
+      "lambda_dope": 0,
+      "spec_mode": "gue",
+      "W": 1.0,
+      "dt": 0.1,
+      "t_max": 2.0,
+      "n_typicality": 2,
+      "thermalization_threshold": 0.4,
+      "seed": 0,
+      "extra": []
+    },
+    "seed": 3
+  },
+  {
+    "config": {
+      "N0": 4,
+      "L": 3,
+      "xi": 3.0,
+      "g": 2.0,
+      "h_dist": [
+        "uniform",
+        -0.5,
+        0.5
+      ],
+      "J": 0.0,
+      "lambda_dope": 0,
+      "spec_mode": "gue",
+      "W": 1.0,
+      "dt": 0.1,
+      "t_max": 2.0,
+      "n_typicality": 2,
+      "thermalization_threshold": 0.4,
+      "seed": 0,
+      "extra": []
+    },
+    "seed": 4
+  },
+  {
+    "config": {
+      "N0": 4,
+      "L": 3,
+      "xi": 3.0,
+      "g": 2.0,
+      "h_dist": [
+        "uniform",
+        -0.5,
+        0.5
+      ],
+      "J": 0.0,
+      "lambda_dope": 0,
+      "spec_mode": "poisson",
+      "W": 1.0,
+      "dt": 0.1,
+      "t_max": 2.0,
+      "n_typicality": 2,
+      "thermalization_threshold": 0.4,
+      "seed": 0,
+      "extra": []
+    },
+    "seed": 1
+  },
+  {
+    "config": {
+      "N0": 4,
+      "L": 3,
+      "xi": 3.0,
+      "g": 2.0,
+      "h_dist": [
+        "uniform",
+        -0.5,
+        0.5
+      ],
+      "J": 0.0,
+      "lambda_dope": 0,
+      "spec_mode": "poisson",
+      "W": 1.0,
+      "dt": 0.1,
+      "t_max": 2.0,
+      "n_typicality": 2,
+      "thermalization_threshold": 0.4,
+      "seed": 0,
+      "extra": []
+    },
+    "seed": 2
+  },
+  {
+    "config": {
+      "N0": 4,
+      "L": 3,
+      "xi": 3.0,
+      "g": 2.0,
+      "h_dist": [
+        "uniform",
+        -0.5,
+        0.5
+      ],
+      "J": 0.0,
+      "lambda_dope": 0,
+      "spec_mode": "poisson",
+      "W": 1.0,
+      "dt": 0.1,
+      "t_max": 2.0,
+      "n_typicality": 2,
+      "thermalization_threshold": 0.4,
+      "seed": 0,
+      "extra": []
+    },
+    "seed": 3
+  },
+  {
+    "config": {
+      "N0": 4,
+      "L": 3,
+      "xi": 3.0,
+      "g": 2.0,
+      "h_dist": [
+        "uniform",
+        -0.5,
+        0.5
+      ],
+      "J": 0.0,
+      "lambda_dope": 0,
+      "spec_mode": "poisson",
+      "W": 1.0,
+      "dt": 0.1,
+      "t_max": 2.0,
+      "n_typicality": 2,
+      "thermalization_threshold": 0.4,
+      "seed": 0,
+      "extra": []
+    },
+    "seed": 4
+  },
+  {
+    "config": {
+      "N0": 4,
+      "L": 3,
+      "xi": 3.0,
+      "g": 2.0,
+      "h_dist": [
+        "uniform",
+        -0.5,
+        0.5
+      ],
+      "J": 0.0,
+      "lambda_dope": "haar",
+      "spec_mode": "gue",
+      "W": 1.0,
+      "dt": 0.1,
+      "t_max": 2.0,
+      "n_typicality": 2,
+      "thermalization_threshold": 0.4,
+      "seed": 0,
+      "extra": []
+    },
+    "seed": 1
+  },
+  {
+    "config": {
+      "N0": 4,
+      "L": 3,
+      "xi": 3.0,
+      "g": 2.0,
+      "h_dist": [
+        "uniform",
+        -0.5,
+        0.5
+      ],
+      "J": 0.0,
+      "lambda_dope": "haar",
+      "spec_mode": "gue",
+      "W": 1.0,
+      "dt": 0.1,
+      "t_max": 2.0,
+      "n_typicality": 2,
+      "thermalization_threshold": 0.4,
+      "seed": 0,
+      "extra": []
+    },
+    "seed": 2
+  },
+  {
+    "config": {
+      "N0": 4,
+      "L": 3,
+      "xi": 3.0,
+      "g": 2.0,
+      "h_dist": [
+        "uniform",
+        -0.5,
+        0.5
+      ],
+      "J": 0.0,
+      "lambda_dope": "haar",
+      "spec_mode": "gue",
+      "W": 1.0,
+      "dt": 0.1,
+      "t_max": 2.0,
+      "n_typicality": 2,
+      "thermalization_threshold": 0.4,
+      "seed": 0,
+      "extra": []
+    },
+    "seed": 3
+  },
+  {
+    "config": {
+      "N0": 4,
+      "L": 3,
+      "xi": 3.0,
+      "g": 2.0,
+      "h_dist": [
+        "uniform",
+        -0.5,
+        0.5
+      ],
+      "J": 0.0,
+      "lambda_dope": "haar",
+      "spec_mode": "gue",
+      "W": 1.0,
+      "dt": 0.1,
+      "t_max": 2.0,
+      "n_typicality": 2,
+      "thermalization_threshold": 0.4,
+      "seed": 0,
+      "extra": []
+    },
+    "seed": 4
+  },
+  {
+    "config": {
+      "N0": 4,
+      "L": 3,
+      "xi": 3.0,
+      "g": 2.0,
+      "h_dist": [
+        "uniform",
+        -0.5,
+        0.5
+      ],
+      "J": 0.0,
+      "lambda_dope": "haar",
+      "spec_mode": "poisson",
+      "W": 1.0,
+      "dt": 0.1,
+      "t_max": 2.0,
+      "n_typicality": 2,
+      "thermalization_threshold": 0.4,
+      "seed": 0,
+      "extra": []
+    },
+    "seed": 1
+  },
+  {
+    "config": {
+      "N0": 4,
+      "L": 3,
+      "xi": 3.0,
+      "g": 2.0,
+      "h_dist": [
+        "uniform",
+        -0.5,
+        0.5
+      ],
+      "J": 0.0,
+      "lambda_dope": "haar",
+      "spec_mode": "poisson",
+      "W": 1.0,
+      "dt": 0.1,
+      "t_max": 2.0,
+      "n_typicality": 2,
+      "thermalization_threshold": 0.4,
+      "seed": 0,
+      "extra": []
+    },
+    "seed": 2
+  },
+  {
+    "config": {
+      "N0": 4,
+      "L": 3,
+      "xi": 3.0,
+      "g": 2.0,
+      "h_dist": [
+        "uniform",
+        -0.5,
+        0.5
+      ],
+      "J": 0.0,
+      "lambda_dope": "haar",
+      "spec_mode": "poisson",
+      "W": 1.0,
+      "dt": 0.1,
+      "t_max": 2.0,
+      "n_typicality": 2,
+      "thermalization_threshold": 0.4,
+      "seed": 0,
+      "extra": []
+    },
+    "seed": 3
+  },
+  {
+    "config": {
+      "N0": 4,
+      "L": 3,
+      "xi": 3.0,
+      "g": 2.0,
+      "h_dist": [
+        "uniform",
+        -0.5,
+        0.5
+      ],
+      "J": 0.0,
+      "lambda_dope": "haar",
+      "spec_mode": "poisson",
+      "W": 1.0,
+      "dt": 0.1,
+      "t_max": 2.0,
       "n_typicality": 2,
       "thermalization_threshold": 0.4,
       "seed": 0,

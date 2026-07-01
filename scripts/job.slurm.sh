@@ -3,7 +3,7 @@
 #SBATCH --output=logs/pseudoavalanche_%A_%a.out
 #SBATCH --error=logs/pseudoavalanche_%A_%a.err
 #SBATCH --array=1-200
-#SBATCH --time=00:30:00
+#SBATCH --time=01:00:00
 #SBATCH --cpus-per-task=1
 #SBATCH --mem=4G
 
