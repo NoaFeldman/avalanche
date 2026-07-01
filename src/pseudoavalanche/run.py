@@ -6,7 +6,7 @@ from pathlib import Path
 
 import numpy as np
 
-from .analysis import fit_v_log
+from .analysis import fit_v_log_with_flag
 from .bath import Bath
 from .config import AvalancheConfig
 from .evolve import evolve_observables
@@ -17,13 +17,15 @@ def run_job(config: AvalancheConfig, seed: int) -> dict:
     bath = Bath(config, seed=seed)
     psi0 = initial_state(config, seed=seed + 1)
     obs = evolve_observables(config, psi0, bath)
+    v_log, degenerate = fit_v_log_with_flag(obs["times"], obs["front"])
     return {
         "times": obs["times"],
         "front": obs["front"],
         "t_ell": obs["t_ell"],
         "s": obs["s"],
         "entropies": obs["entropies"],
-        "v_log": fit_v_log(obs["times"], obs["front"]),
+        "v_log": v_log,
+        "v_log_degenerate": degenerate,
     }
 
 

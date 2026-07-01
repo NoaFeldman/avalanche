@@ -42,6 +42,12 @@ def main() -> None:
 
     out_path = Path(__file__).resolve().parent / "job_list.json"
     out_path.write_text(json.dumps(grid, indent=2))
+    print("Parameter grid:")
+    print(f"  xi: {xi_values}")
+    print(f"  g: {g_values}")
+    print(f"  lambda_dope: {lambda_values}")
+    print(f"  spec_mode: {spec_modes}")
+    print(f"  seeds: {seeds}")
     print(f"Wrote {len(grid)} jobs to {out_path}")
 
 

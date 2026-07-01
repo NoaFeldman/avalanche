@@ -17,6 +17,7 @@
       "dt": 0.1,
       "t_max": 0.5,
       "n_typicality": 2,
+      "thermalization_threshold": 0.4,
       "seed": 0,
       "extra": []
     },
@@ -40,6 +41,7 @@
       "dt": 0.1,
       "t_max": 0.5,
       "n_typicality": 2,
+      "thermalization_threshold": 0.4,
       "seed": 0,
       "extra": []
     },
@@ -63,6 +65,7 @@
       "dt": 0.1,
       "t_max": 0.5,
       "n_typicality": 2,
+      "thermalization_threshold": 0.4,
       "seed": 0,
       "extra": []
     },
@@ -86,6 +89,7 @@
       "dt": 0.1,
       "t_max": 0.5,
       "n_typicality": 2,
+      "thermalization_threshold": 0.4,
       "seed": 0,
       "extra": []
     },
@@ -109,6 +113,7 @@
       "dt": 0.1,
       "t_max": 0.5,
       "n_typicality": 2,
+      "thermalization_threshold": 0.4,
       "seed": 0,
       "extra": []
     },
@@ -132,6 +137,7 @@
       "dt": 0.1,
       "t_max": 0.5,
       "n_typicality": 2,
+      "thermalization_threshold": 0.4,
       "seed": 0,
       "extra": []
     },
@@ -155,6 +161,7 @@
       "dt": 0.1,
       "t_max": 0.5,
       "n_typicality": 2,
+      "thermalization_threshold": 0.4,
       "seed": 0,
       "extra": []
     },
@@ -178,6 +185,7 @@
       "dt": 0.1,
       "t_max": 0.5,
       "n_typicality": 2,
+      "thermalization_threshold": 0.4,
       "seed": 0,
       "extra": []
     },
@@ -201,6 +209,7 @@
       "dt": 0.1,
       "t_max": 0.5,
       "n_typicality": 2,
+      "thermalization_threshold": 0.4,
       "seed": 0,
       "extra": []
     },
@@ -224,6 +233,7 @@
       "dt": 0.1,
       "t_max": 0.5,
       "n_typicality": 2,
+      "thermalization_threshold": 0.4,
       "seed": 0,
       "extra": []
     },
@@ -247,6 +257,7 @@
       "dt": 0.1,
       "t_max": 0.5,
       "n_typicality": 2,
+      "thermalization_threshold": 0.4,
       "seed": 0,
       "extra": []
     },
@@ -270,6 +281,7 @@
       "dt": 0.1,
       "t_max": 0.5,
       "n_typicality": 2,
+      "thermalization_threshold": 0.4,
       "seed": 0,
       "extra": []
     },
@@ -293,6 +305,7 @@
       "dt": 0.1,
       "t_max": 0.5,
       "n_typicality": 2,
+      "thermalization_threshold": 0.4,
       "seed": 0,
       "extra": []
     },
@@ -316,6 +329,7 @@
       "dt": 0.1,
       "t_max": 0.5,
       "n_typicality": 2,
+      "thermalization_threshold": 0.4,
       "seed": 0,
       "extra": []
     },
@@ -339,6 +353,7 @@
       "dt": 0.1,
       "t_max": 0.5,
       "n_typicality": 2,
+      "thermalization_threshold": 0.4,
       "seed": 0,
       "extra": []
     },
@@ -362,6 +377,7 @@
       "dt": 0.1,
       "t_max": 0.5,
       "n_typicality": 2,
+      "thermalization_threshold": 0.4,
       "seed": 0,
       "extra": []
     },
@@ -385,6 +401,7 @@
       "dt": 0.1,
       "t_max": 0.5,
       "n_typicality": 2,
+      "thermalization_threshold": 0.4,
       "seed": 0,
       "extra": []
     },
@@ -408,6 +425,7 @@
       "dt": 0.1,
       "t_max": 0.5,
       "n_typicality": 2,
+      "thermalization_threshold": 0.4,
       "seed": 0,
       "extra": []
     },
@@ -431,6 +449,7 @@
       "dt": 0.1,
       "t_max": 0.5,
       "n_typicality": 2,
+      "thermalization_threshold": 0.4,
       "seed": 0,
       "extra": []
     },
@@ -454,6 +473,7 @@
       "dt": 0.1,
       "t_max": 0.5,
       "n_typicality": 2,
+      "thermalization_threshold": 0.4,
       "seed": 0,
       "extra": []
     },
@@ -477,6 +497,7 @@
       "dt": 0.1,
       "t_max": 0.5,
       "n_typicality": 2,
+      "thermalization_threshold": 0.4,
       "seed": 0,
       "extra": []
     },
@@ -500,6 +521,7 @@
       "dt": 0.1,
       "t_max": 0.5,
       "n_typicality": 2,
+      "thermalization_threshold": 0.4,
       "seed": 0,
       "extra": []
     },
@@ -523,6 +545,7 @@
       "dt": 0.1,
       "t_max": 0.5,
       "n_typicality": 2,
+      "thermalization_threshold": 0.4,
       "seed": 0,
       "extra": []
     },
@@ -546,6 +569,7 @@
       "dt": 0.1,
       "t_max": 0.5,
       "n_typicality": 2,
+      "thermalization_threshold": 0.4,
       "seed": 0,
       "extra": []
     },
@@ -569,6 +593,7 @@
       "dt": 0.1,
       "t_max": 0.5,
       "n_typicality": 2,
+      "thermalization_threshold": 0.4,
       "seed": 0,
       "extra": []
     },
@@ -592,6 +617,7 @@
       "dt": 0.1,
       "t_max": 0.5,
       "n_typicality": 2,
+      "thermalization_threshold": 0.4,
       "seed": 0,
       "extra": []
     },
@@ -615,6 +641,7 @@
       "dt": 0.1,
       "t_max": 0.5,
       "n_typicality": 2,
+      "thermalization_threshold": 0.4,
       "seed": 0,
       "extra": []
     },
@@ -638,6 +665,7 @@
       "dt": 0.1,
       "t_max": 0.5,
       "n_typicality": 2,
+      "thermalization_threshold": 0.4,
       "seed": 0,
       "extra": []
     },
@@ -661,6 +689,7 @@
       "dt": 0.1,
       "t_max": 0.5,
       "n_typicality": 2,
+      "thermalization_threshold": 0.4,
       "seed": 0,
       "extra": []
     },
@@ -684,6 +713,7 @@
       "dt": 0.1,
       "t_max": 0.5,
       "n_typicality": 2,
+      "thermalization_threshold": 0.4,
       "seed": 0,
       "extra": []
     },
@@ -707,6 +737,7 @@
       "dt": 0.1,
       "t_max": 0.5,
       "n_typicality": 2,
+      "thermalization_threshold": 0.4,
       "seed": 0,
       "extra": []
     },
@@ -730,6 +761,7 @@
       "dt": 0.1,
       "t_max": 0.5,
       "n_typicality": 2,
+      "thermalization_threshold": 0.4,
       "seed": 0,
       "extra": []
     },
@@ -753,6 +785,7 @@
       "dt": 0.1,
       "t_max": 0.5,
       "n_typicality": 2,
+      "thermalization_threshold": 0.4,
       "seed": 0,
       "extra": []
     },
@@ -776,6 +809,7 @@
       "dt": 0.1,
       "t_max": 0.5,
       "n_typicality": 2,
+      "thermalization_threshold": 0.4,
       "seed": 0,
       "extra": []
     },
@@ -799,6 +833,7 @@
       "dt": 0.1,
       "t_max": 0.5,
       "n_typicality": 2,
+      "thermalization_threshold": 0.4,
       "seed": 0,
       "extra": []
     },
@@ -822,6 +857,7 @@
       "dt": 0.1,
       "t_max": 0.5,
       "n_typicality": 2,
+      "thermalization_threshold": 0.4,
       "seed": 0,
       "extra": []
     },
@@ -845,6 +881,7 @@
       "dt": 0.1,
       "t_max": 0.5,
       "n_typicality": 2,
+      "thermalization_threshold": 0.4,
       "seed": 0,
       "extra": []
     },
@@ -868,6 +905,7 @@
       "dt": 0.1,
       "t_max": 0.5,
       "n_typicality": 2,
+      "thermalization_threshold": 0.4,
       "seed": 0,
       "extra": []
     },
@@ -891,6 +929,7 @@
       "dt": 0.1,
       "t_max": 0.5,
       "n_typicality": 2,
+      "thermalization_threshold": 0.4,
       "seed": 0,
       "extra": []
     },
@@ -914,6 +953,7 @@
       "dt": 0.1,
       "t_max": 0.5,
       "n_typicality": 2,
+      "thermalization_threshold": 0.4,
       "seed": 0,
       "extra": []
     },
@@ -937,6 +977,7 @@
       "dt": 0.1,
       "t_max": 0.5,
       "n_typicality": 2,
+      "thermalization_threshold": 0.4,
       "seed": 0,
       "extra": []
     },
@@ -960,6 +1001,7 @@
       "dt": 0.1,
       "t_max": 0.5,
       "n_typicality": 2,
+      "thermalization_threshold": 0.4,
       "seed": 0,
       "extra": []
     },
@@ -983,6 +1025,7 @@
       "dt": 0.1,
       "t_max": 0.5,
       "n_typicality": 2,
+      "thermalization_threshold": 0.4,
       "seed": 0,
       "extra": []
     },
@@ -1006,6 +1049,7 @@
       "dt": 0.1,
       "t_max": 0.5,
       "n_typicality": 2,
+      "thermalization_threshold": 0.4,
       "seed": 0,
       "extra": []
     },
@@ -1029,6 +1073,7 @@
       "dt": 0.1,
       "t_max": 0.5,
       "n_typicality": 2,
+      "thermalization_threshold": 0.4,
       "seed": 0,
       "extra": []
     },
@@ -1052,6 +1097,7 @@
       "dt": 0.1,
       "t_max": 0.5,
       "n_typicality": 2,
+      "thermalization_threshold": 0.4,
       "seed": 0,
       "extra": []
     },
@@ -1075,6 +1121,7 @@
       "dt": 0.1,
       "t_max": 0.5,
       "n_typicality": 2,
+      "thermalization_threshold": 0.4,
       "seed": 0,
       "extra": []
     },
@@ -1098,6 +1145,7 @@
       "dt": 0.1,
       "t_max": 0.5,
       "n_typicality": 2,
+      "thermalization_threshold": 0.4,
       "seed": 0,
       "extra": []
     },
@@ -1121,6 +1169,7 @@
       "dt": 0.1,
       "t_max": 0.5,
       "n_typicality": 2,
+      "thermalization_threshold": 0.4,
       "seed": 0,
       "extra": []
     },
@@ -1144,6 +1193,7 @@
       "dt": 0.1,
       "t_max": 0.5,
       "n_typicality": 2,
+      "thermalization_threshold": 0.4,
       "seed": 0,
       "extra": []
     },
@@ -1167,6 +1217,7 @@
       "dt": 0.1,
       "t_max": 0.5,
       "n_typicality": 2,
+      "thermalization_threshold": 0.4,
       "seed": 0,
       "extra": []
     },
@@ -1190,6 +1241,7 @@
       "dt": 0.1,
       "t_max": 0.5,
       "n_typicality": 2,
+      "thermalization_threshold": 0.4,
       "seed": 0,
       "extra": []
     },
@@ -1213,6 +1265,7 @@
       "dt": 0.1,
       "t_max": 0.5,
       "n_typicality": 2,
+      "thermalization_threshold": 0.4,
       "seed": 0,
       "extra": []
     },
@@ -1236,6 +1289,7 @@
       "dt": 0.1,
       "t_max": 0.5,
       "n_typicality": 2,
+      "thermalization_threshold": 0.4,
       "seed": 0,
       "extra": []
     },
@@ -1259,6 +1313,7 @@
       "dt": 0.1,
       "t_max": 0.5,
       "n_typicality": 2,
+      "thermalization_threshold": 0.4,
       "seed": 0,
       "extra": []
     },
@@ -1282,6 +1337,7 @@
       "dt": 0.1,
       "t_max": 0.5,
       "n_typicality": 2,
+      "thermalization_threshold": 0.4,
       "seed": 0,
       "extra": []
     },
@@ -1305,6 +1361,7 @@
       "dt": 0.1,
       "t_max": 0.5,
       "n_typicality": 2,
+      "thermalization_threshold": 0.4,
       "seed": 0,
       "extra": []
     },
@@ -1328,6 +1385,7 @@
       "dt": 0.1,
       "t_max": 0.5,
       "n_typicality": 2,
+      "thermalization_threshold": 0.4,
       "seed": 0,
       "extra": []
     },
@@ -1351,6 +1409,7 @@
       "dt": 0.1,
       "t_max": 0.5,
       "n_typicality": 2,
+      "thermalization_threshold": 0.4,
       "seed": 0,
       "extra": []
     },
@@ -1374,6 +1433,7 @@
       "dt": 0.1,
       "t_max": 0.5,
       "n_typicality": 2,
+      "thermalization_threshold": 0.4,
       "seed": 0,
       "extra": []
     },
@@ -1397,6 +1457,7 @@
       "dt": 0.1,
       "t_max": 0.5,
       "n_typicality": 2,
+      "thermalization_threshold": 0.4,
       "seed": 0,
       "extra": []
     },
@@ -1420,6 +1481,7 @@
       "dt": 0.1,
       "t_max": 0.5,
       "n_typicality": 2,
+      "thermalization_threshold": 0.4,
       "seed": 0,
       "extra": []
     },
@@ -1443,6 +1505,7 @@
       "dt": 0.1,
       "t_max": 0.5,
       "n_typicality": 2,
+      "thermalization_threshold": 0.4,
       "seed": 0,
       "extra": []
     },
@@ -1466,6 +1529,7 @@
       "dt": 0.1,
       "t_max": 0.5,
       "n_typicality": 2,
+      "thermalization_threshold": 0.4,
       "seed": 0,
       "extra": []
     },

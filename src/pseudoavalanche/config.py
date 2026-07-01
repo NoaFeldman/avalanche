@@ -23,6 +23,7 @@ class AvalancheConfig:
     dt: float = 0.1
     t_max: float = 2.0
     n_typicality: int = 4
+    thermalization_threshold: float = 0.4
     seed: int = 0
     extra: Tuple[Any, ...] = field(default_factory=tuple)
 
